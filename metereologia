@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>dependencias tegnologicas</title><link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>¿Que es una dependecia tegnologica?.</h1>
+    <p>La dependencia tegnologica es cuando una persona genera una cierta adiccion con algun aparato tegnologico como un celular,computador,etc.</p>
+    <h2>¿Como nos podemos sacar esa adiccion?</h2>
+    <p>La dependencia tegnologica se puede sacar con terapias, ayuda con psicologos o dejar de usarlo de a poco.</p>
+             <ul>
+                   <li>aqui se puede apreciar a una persona muy adicta a el uso de su telefono</li>
+                   <li>esta persona tendria que ir a terapia porque si este lo deja por unos dias su dependencia sera mas al estar necesitado de este</li>
+             </ul>
+     <img src="https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/FX77VYRGV5CJDIGUXUL4QI46UU.jpg" alt="Image 1">
+    <h2>¿Es normal ser adicto?</h2>
+    <p>La dependencia si bien es muy comun es tambien muy peligroso y malo para tu salud mental ya que algunas personas pueden utilizar a la inteligencia artificial y se vuelven flojas y no sabran pensar por si mismos si esque lo utilizan demasiado a su dia a dia.</p>
+     <img src="https://hoydia.com.ar/wp-content/uploads/2022/11/ilustrapag14AdiccionCeluWeb.jpg" alt="Image 1">
+     <iframe src="https://www.meteoblue.com/en/weather/widget/daily/ip_romania_675514?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/ip_romania_675514?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+</body>
+</html>
